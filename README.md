@@ -1,6 +1,6 @@
 # SMSCarManager
 
-![App Icon](https://raw.githubusercontent.com/MelkyFB/smscarmanager/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+[![Get it on Play Store](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=io.github.salemlockwood.android.smscarmanager)
 
 SMSCarManager is an application to manage GPS Track Locator Devices by SMS. Like [GT06](https://www.amazon.com/QZTELECTRONIC-GT06-Mini-Tracker-Locator/dp/B01M65LXTB).
 

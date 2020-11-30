@@ -2,7 +2,7 @@
 
 [![Get it on Play Store](https://play.google.com/intl/en_us/badges/images/badge_new.png)](https://play.google.com/store/apps/details?id=io.github.salemlockwood.android.smscarmanager)
 
-SMSCarManager is an application to manage GPS Track Locator Devices by SMS. Like [GT06](https://www.amazon.com/QZTELECTRONIC-GT06-Mini-Tracker-Locator/dp/B01M65LXTB).
+SMSCarManager is an application to manage GPS Track Locator Devices by SMS. Like [GT06](https://pt.aliexpress.com/i/1784105804.html).
 
 ## Getting Started
 
